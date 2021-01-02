@@ -1,0 +1,14 @@
+#header{
+    background-color: blueviolet;
+}
+#sub-header{
+    background-color: red;
+}
+#main-header{
+   padding: 10px;
+   background-color: salmon; 
+}
+body * {
+    margin: 10px;
+    border: 1px solid blue;
+  }
